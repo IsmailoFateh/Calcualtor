@@ -48,3 +48,11 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## License
+
+This project is **open-source** and free to use under the MIT License.
+
+## Author
+
+- GitHub: (https://github.com/IsmailoFateh)
+- Email: (Ismailofateh@gmail.com)
